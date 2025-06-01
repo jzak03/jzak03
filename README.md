@@ -4,30 +4,22 @@
 
 <img src="https://emoji.gg/assets/emoji/6449_RocketInABlanket.png" width="50" />
 
-I am a software engineering student, currently working as a freelance developer 🧑. I enjoy lofi music ☕ and have a deep fascination with raccoons 🦝.
+Software engineering student & freelance developer 🧑. I enjoy lofi music ☕ and have a deep fascination with raccoons 🦝.
 
-    🔭 I'm currently working as a freelance software developer.
+* 🔭 Currently a freelance software developer.
+* 🌱 Learning web & mobile technologies.
+* 👯 Open to productive app collaborations.
+* 🤔 Exploring OS challenges.
+* 💬 Ask me about Web Tech.
+* 📫 **Contact:** Via GitHub issues/discussions.
+* ☕ **Support my work:** [Buy me a coffee](https://ko-fi.com/your_ko_fi_link_here)
+* 😄 **My persona:** Jzak03 🦝.
+* ⚡ **Fun fact:** Love raccoons, despite allergies.
 
-    🌱 I'm continuously expanding my knowledge in web and mobile technologies.
+### LANGUAGES 🦝 <img src="https://emoji.gg/assets/emoji/6958_raccoon.png" width="24" />
 
-    👯 I'm open to collaborating on productive and innovative applications.
+1. Spanish (Native)
+2. English (Basic)
 
-    🤔 I explore challenges related to operating systems and their optimization.
-
-    💬 Feel free to ask me about Web Technology.
-
-    📫 Contact: You can reach me through issues or discussions on my GitHub projects.
-
-    ☕ Support my work: Buy me a coffee
-
-    😄 My persona: Jzak03 🦝.
-
-    ⚡ Fun fact: I adore raccoons, despite being allergic to animals.
-
-LANGUAGES <img src="https://emoji.gg/assets/emoji/6958_raccoon.png" width="24" />
-
-    Spanish (Native)
-
-    English (Basic)
----
+### See you soon 🦝
 <h1 align="center">Bye</a><br/><br/> <img src="https://emoji.gg/assets/emoji/3489-raccoon-roll.gif" width="100" /> </h1>
